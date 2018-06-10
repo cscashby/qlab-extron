@@ -1,5 +1,5 @@
-# qlab-extron
-## Control of Extron video matrices from QLab 4.0
+# qlab-extron #
+## Control of Extron video matrices from QLab 4.0 ##
 
 To use, either take the example .qlab4 file and clone the 'SetMatrix' cue as appropriate or copy the 'Extron MAV-Control.applescript' file and paste into a new Script cue.
 
